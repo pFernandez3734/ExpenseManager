@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Environment — copy .env.example and fill in values locally
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# TypeScript
+*.tsbuildinfo
